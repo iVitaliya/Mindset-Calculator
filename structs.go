@@ -1,4 +1,4 @@
-package utils
+package main
 
 type IPoint struct {
 	strongly_agree    int

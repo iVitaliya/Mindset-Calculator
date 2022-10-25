@@ -1,4 +1,4 @@
-package utils
+package main
 
 func Contains[T string | int](array []T, value T) bool {
 	for _, v := range array {
