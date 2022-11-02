@@ -1,0 +1,15 @@
+/workspaces/Mindset-Calculator/MindsetCalculator/obj/Debug/net6.0/MindsetCalculator.csproj.AssemblyReference.cache
+/workspaces/Mindset-Calculator/MindsetCalculator/obj/Debug/net6.0/MindsetCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Mindset-Calculator/MindsetCalculator/obj/Debug/net6.0/MindsetCalculator.AssemblyInfoInputs.cache
+/workspaces/Mindset-Calculator/MindsetCalculator/obj/Debug/net6.0/MindsetCalculator.AssemblyInfo.cs
+/workspaces/Mindset-Calculator/MindsetCalculator/obj/Debug/net6.0/MindsetCalculator.csproj.CoreCompileInputs.cache
+/workspaces/Mindset-Calculator/MindsetCalculator/bin/Debug/net6.0/MindsetCalculator
+/workspaces/Mindset-Calculator/MindsetCalculator/bin/Debug/net6.0/MindsetCalculator.deps.json
+/workspaces/Mindset-Calculator/MindsetCalculator/bin/Debug/net6.0/MindsetCalculator.runtimeconfig.json
+/workspaces/Mindset-Calculator/MindsetCalculator/bin/Debug/net6.0/MindsetCalculator.dll
+/workspaces/Mindset-Calculator/MindsetCalculator/bin/Debug/net6.0/MindsetCalculator.pdb
+/workspaces/Mindset-Calculator/MindsetCalculator/obj/Debug/net6.0/MindsetCalculator.dll
+/workspaces/Mindset-Calculator/MindsetCalculator/obj/Debug/net6.0/refint/MindsetCalculator.dll
+/workspaces/Mindset-Calculator/MindsetCalculator/obj/Debug/net6.0/MindsetCalculator.pdb
+/workspaces/Mindset-Calculator/MindsetCalculator/obj/Debug/net6.0/MindsetCalculator.genruntimeconfig.cache
+/workspaces/Mindset-Calculator/MindsetCalculator/obj/Debug/net6.0/ref/MindsetCalculator.dll

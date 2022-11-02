@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d88nKDafkT/7azUlsCle3xVkbF69xEEWtUkY1GCSKBRnvVwsQ1YghsC4BWxN/pW6ua/JpM1oF8ocVNLxJilwHA==",
+  "dgSpecHash": "Tne3IiGZfwrTyoPL440HFKOX2R1cNiZ/rjQjzKenQBL4NKUULi2KzHDtv6P3yAjPZaT+m7P1ZqLMJ7/CwuP2SQ==",
   "success": true,
-  "projectFilePath": "F:\\Github\\Mindset-Calculator\\MindsetCalculator\\MindsetCalculator.csproj",
+  "projectFilePath": "/workspaces/Mindset-Calculator/MindsetCalculator/MindsetCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
